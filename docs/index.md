@@ -1,5 +1,5 @@
 ---
-title: Welcome to Woon Li's Dev Journey!
+title: About Me
 ---
 
 ##### Hello! I am Woon Li and welcome to my online portfolio!
