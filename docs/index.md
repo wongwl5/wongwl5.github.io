@@ -5,7 +5,7 @@ title: About Me
 ## Hello! I am Woon Li and welcome to my digital portfolio!
 
 I am currently in my penultimate-year of my Bachelor of Science in Computer Science in Real-time Interactive Simulation degree with honours.
-<br>
+<br><br>
 With over 8 years of programming experience, I am **eager to be looking for internship opportunities from 4 May 2026 to 9 April 2027!**
 <br><br>
 Since my teens, I have been developing games and websites in my free time and fell in love with the rewarding problem-solving aspect of programming.
