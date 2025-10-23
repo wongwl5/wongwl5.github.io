@@ -3,8 +3,8 @@ title: Game Projects
 ---
 
 ## N.A.N.O.: The Last Line
-#### Platform: Windows Desktop<br>
-#### Language/Tools: C++, OpenGL, JSON, Git, GitHub, Notion, Visual Studio
+Platform: Windows Desktop<br>
+Language/Tools: C++, OpenGL, JSON, Git, GitHub, Notion, Visual Studio
 ![NANO Screenshot](/assets/nano_image.webp)
 
 #### September 2024 - April 2025
@@ -21,8 +21,8 @@ Role: Engine Physics Lead
 Check out the game on the DigiPen Game Gallery [here](https://www.digipen.edu.sg/showcase/student-games/nano-the-last-line)!
 
 ## GridLock Dungeon
-#### Platform: Windows Desktop<br>
-#### Language/Tools: C++, JSON, Git, GitHub, Visual Studio, Alpha Engine (DigiPen proprietary engine)
+Platform: Windows Desktop<br>
+Language/Tools: C++, JSON, Git, GitHub, Visual Studio, Alpha Engine (DigiPen proprietary engine)
 ![GridLock Dungeon Screenshot](/assets/gridlock_dungeon_image.png)
 
 #### January 2024 - April 2024
@@ -42,8 +42,8 @@ Watch a short trailer for GridLock Dungeon below!
 <br>
 
 ## Bon-Tress
-#### Platform: Android<br>
-#### Language/Tools: C#, Unity Engine, Visual Studio, GitHub, Adobe XD
+Platform: Android<br>
+Language/Tools: C#, Unity Engine, Visual Studio, GitHub, Adobe XD
 ![Bon-Tress Screenshot](/assets/bontress_image.png)
 
 #### January 2020 - September 2020
@@ -69,8 +69,8 @@ Check out the game trailer for Bon-Tress [here](https://www.youtube.com/watch?v=
 <br>
 
 ## Polytopia
-#### Platform: Android<br>
-#### Language/Tools: C#, Unity Engine, Visual Studio, GitHub, Adobe XD
+Platform: Android<br>
+Language/Tools: C#, Unity Engine, Visual Studio, GitHub, Adobe XD
 ![Polytopia Screenshot](/assets/polytopia_image.png)
 
 #### April 2019 - July 2019
