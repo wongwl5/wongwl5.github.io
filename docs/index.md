@@ -4,7 +4,8 @@ title: About Me
 
 ## Hello! I am Woon Li and welcome to my digital portfolio!
 
-I am currently in my penultimate-year of my Bachelor of Science in Computer Science in Real-time Interactive Simulation degree with honours. 
+I am currently in my penultimate-year of my Bachelor of Science in Computer Science in Real-time Interactive Simulation degree with honours.
+<br>
 With over 8 years of programming experience, I am **eager to be looking for internship opportunities from 4 May 2026 to 9 April 2027!**
 <br><br>
 Since my teens, I have been developing games and websites in my free time and fell in love with the rewarding problem-solving aspect of programming.
@@ -13,7 +14,7 @@ My academic journey further sharpened my skills in building optimised games and 
 I thrive on solving complex problems, architecting scalable systems, and learning from every challenge I face.
 
 Feel free to explore my [game](https://wongwl5.github.io/game_projects.html) and [software](https://wongwl5.github.io/software_projects.html) projects! If there are any queries, feel free to contact me as well.
-
+<br>
 ---
 
 ## Work Experience
@@ -36,7 +37,7 @@ Okdodoo<br>
 June 2018 - August 2018
 - Updated the shop's online catalogue to match in-store inventory
 - Took photographs of shop items and performed photo editing with Adobe Photoshop
-
+<br>
 ---
 
 ## Education
@@ -52,16 +53,17 @@ April 2018 - April 2021
 - Achieved the Director's List for Academic Year 2019/2020 for being the top 10% of the cohort
 - Graduated with a Diploma in Game Design & Development With Merit
 - GPA: 3.64/4.0
-
+<br>
 ---
 
 ## Resume/CV
 My one-page resume can be downloaded [here](/assets/Wong Woon Li Resume.pdf).
-
+<br>
 ---
 
 ## Get in Touch
 Feel free to get in touch with me, I would love to hear from you!
-- Email: zack.woonli@gmail.com
-- Phone: +65 8758 4370
-- LinkedIn: https://www.linkedin.com/in/woonli-wong/
+- Email: [zack.woonli@gmail.com](mailto:zack.woonli@gmail.com)
+- Phone: [+65 8758 4370](https://wa.me/6587584370)
+- Telegram: [@wongwoonli](https://t.me/wongwoonli)
+- LinkedIn: [https://www.linkedin.com/in/woonli-wong/](https://www.linkedin.com/in/woonli-wong/)
