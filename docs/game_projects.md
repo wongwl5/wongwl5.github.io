@@ -3,8 +3,8 @@ title: Game Projects
 ---
 
 ## N.A.N.O.: The Last Line
-Platform: Windows Desktop<br>
-Language/Tools: C++, OpenGL, JSON, Git, GitHub, Notion, Visual Studio
+- Windows Desktop
+- C++, OpenGL, JSON, Git, GitHub, Notion, Visual Studio
 ![NANO Screenshot](/assets/nano_image.webp)
 
 #### September 2024 - April 2025
@@ -21,8 +21,8 @@ Role: Engine Physics Lead
 Check out the game on the DigiPen Game Gallery [here](https://www.digipen.edu.sg/showcase/student-games/nano-the-last-line)!
 
 ## GridLock Dungeon
-Platform: Windows Desktop<br>
-Language/Tools: C++, JSON, Git, GitHub, Visual Studio, Alpha Engine (DigiPen proprietary engine)
+- Windows Desktop
+- Language/Tools: C++, JSON, Git, GitHub, Visual Studio, Alpha Engine (DigiPen proprietary engine)
 ![GridLock Dungeon Screenshot](/assets/gridlock_dungeon_image.png)
 
 #### January 2024 - April 2024
@@ -42,8 +42,8 @@ Watch a short trailer for GridLock Dungeon below!
 <br>
 
 ## Bon-Tress
-Platform: Android<br>
-Language/Tools: C#, Unity Engine, Visual Studio, GitHub, Adobe XD
+- Android
+- C#, Unity Engine, Visual Studio, GitHub, Adobe XD
 ![Bon-Tress Screenshot](/assets/bontress_image.png)
 
 #### January 2020 - September 2020
@@ -61,7 +61,7 @@ Role: UI/UX Programmer
 
 Check out the game trailer for Bon-Tress [here](https://www.youtube.com/watch?v=SovWF2KzWXU)!
 <iframe width="640" height="360"
-  src="https://www.youtube.com/embed/v=SovWF2KzWXU"
+  src="https://www.youtube.com/embed/SovWF2KzWXU"
   title="Bon-Tress Trailer"
   frameborder="0"
   allowfullscreen>
@@ -69,8 +69,8 @@ Check out the game trailer for Bon-Tress [here](https://www.youtube.com/watch?v=
 <br>
 
 ## Polytopia
-Platform: Android<br>
-Language/Tools: C#, Unity Engine, Visual Studio, GitHub, Adobe XD
+- Android
+- Language/Tools: C#, Unity Engine, Visual Studio, GitHub, Adobe XD
 ![Polytopia Screenshot](/assets/polytopia_image.png)
 
 #### April 2019 - July 2019
@@ -89,7 +89,7 @@ Role: Mini-game Designer/Programmer
 
 Check out the gameplay video for Polytopia [here](https://www.youtube.com/watch?v=w6UbMJuZg48)!
 <iframe width="640" height="360"
-  src="https://www.youtube.com/embed/v=w6UbMJuZg48"
+  src="https://www.youtube.com/embed/w6UbMJuZg48"
   title="Polytopia Gameplay Video"
   frameborder="0"
   allowfullscreen>
