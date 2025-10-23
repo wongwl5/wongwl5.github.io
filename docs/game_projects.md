@@ -1,4 +1,8 @@
-# Game Projects
+# 
+
+---
+title: Game Projects
+---
 
 ## N.A.N.O.: The Last Line
 
