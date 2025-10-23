@@ -3,7 +3,8 @@ title: Game Projects
 ---
 
 ## N.A.N.O.: The Last Line
-
+Platform: Windows Desktop
+Language/Tools: C++, OpenGL, JSON, Git, GitHub, Notion, Visual Studio
 ![NANO Screenshot](/assets/nano_image.webp)
 
 #### September 2024 - April 2025
@@ -18,9 +19,11 @@ Role: Engine Physics Lead
 - Worked closely with the technical team to implement many of the engine's core subsystems, such as the math library, camera system, seamless scene loading, and gamepad integration  
 - Communicated well with the design team to align physics behavior with gameplay requirements, ensuring mechanics felt responsive and intuitive
 
-Download and play the game on the DigiPen Game Gallery [here](https://www.digipen.edu.sg/showcase/student-games/nano-the-last-line)!
+Check out the game on the DigiPen Game Gallery [here](https://www.digipen.edu.sg/showcase/student-games/nano-the-last-line)!
 
 ## GridLock Dungeon
+Platform: Windows Desktop
+Language/Tools: C++, JSON, Git, GitHub, Visual Studio, Alpha Engine (DigiPen proprietary engine)
 ![GridLock Dungeon Screenshot](/assets/gridlock_dungeon_image.png)
 
 #### January 2024 - April 2024
@@ -39,6 +42,8 @@ Watch a short trailer for GridLock Dungeon below!
 </video>
 
 ## Bon-Tress
+Platform: Android
+Language/Tools: C#, Unity Engine, Visual Studio, GitHub, Adobe XD
 ![Bon-Tress Screenshot](/assets/bontress_image.png)
 
 #### January 2020 - September 2020
@@ -49,4 +54,30 @@ In Bon-Tress, defend your study habits against infiltrating negative traits! Bui
 
 The game was developed on behalf of Learning Academy and numerous educational institutes in Singapore (such as Singapore Polytechnic & National University of Singapore) to introduce the concept of Self-Directed Learning to students via gamification. It was featured at the annual TP Infotech Day 2021.
 
+Role: UI/UX Programmer
+- Responsible for programming many UI/UX elements in the game, mainly the "Guide Book", tutorial and game HUDs
+- Converted SDL minigame wireframe prototypes into playable prototypes with Unity
+- Communicated with game designers and artists to ensure mechanics and artstyles were respected in the final game
+
 Check out the game trailer for Bon-Tress [here](https://www.youtube.com/watch?v=SovWF2KzWXU)!
+
+## Polytopia
+Platform: Android
+Language/Tools: C#, Unity Engine, Visual Studio, GitHub, Adobe XD
+![Polytopia Screenshot](/assets/polytopia_image.png)
+
+#### April 2019 - July 2019
+
+Polytopia is a 2D pixel art RPG mobile game developed using Unity with C#.
+
+Take control of the player, an ambitious blacksmith with a goal to craft a legendary sword. Plan your day, explore the world and find precious materials and blueprints needed to forge the sword.
+That's not all, prove your blacksmithing abilities by playing 5 different mini-games simulating the weapon crafting process, including forging and annealing.
+
+Polytopia was our first iteration of an SDL-infused mini-game, which was later replaced by Bon-Tress (see above) due to over-scoping and a general shift in team ideology and vision after much discussion.
+
+Role: Mini-game Designer/Programmer
+- Brainstormed and designed the forging and annealing mini-game prototypes with Adobe XD
+- Translated design prototypes into actual mini-games with Unity and C#
+- Discussed the mini-game art style and direction with the artist
+
+Check out the gameplay video for Polytopia [here](https://www.youtube.com/watch?v=w6UbMJuZg48)!
