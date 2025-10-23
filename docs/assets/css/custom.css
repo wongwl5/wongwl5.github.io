@@ -1,63 +1,45 @@
-/* Full-width header bar */
-.site-header {
+/* Dark header bar to match Slate */
+.custom-nav {
   background-color: #2f363d;   /* Slate’s dark gray */
+  padding: 0.75rem 2rem;
   border-bottom: 1px solid #444;
-  width: 100%;
-  padding: 0.75rem 0;
 }
 
-/* Container keeps content aligned */
-.nav-container {
-  max-width: 960px;            /* match Slate’s content width */
-  margin: 0 auto;
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-  padding: 0 1rem;
-}
-
-/* Site title styling */
-.site-title a {
-  color: #f0f0f0;
-  text-decoration: none;
-  font-size: 1.25rem;
-  font-weight: 700;
-}
-
-/* Nav list */
+/* Horizontal nav list */
 .navbar {
   list-style: none;
   margin: 0;
   padding: 0;
   display: flex;
   gap: 1.5rem;
+  justify-content: center;
 }
 
-/* Nav links */
+/* Links styled like Slate’s header text */
 .navbar a {
-  color: #f0f0f0;
+  color: #f0f0f0;              /* light gray text */
   text-decoration: none;
   font-weight: 500;
   transition: color 0.2s ease, border-bottom 0.2s ease;
 }
 
-/* Hover + active states */
-.navbar a:hover,
-.navbar a.active {
-  color: #1abc9c;              /* Slate’s teal accent */
+/* Hover effect */
+.navbar a:hover {
+  color: #1abc9c;              /* Slate’s accent teal */
   border-bottom: 2px solid #1abc9c;
-  padding-bottom: 0.25rem;
 }
 
-/* Responsive: stack vertically on small screens */
+/* Active page indicator */
+.navbar a.active {
+  color: #1abc9c;
+  border-bottom: 2px solid #1abc9c;
+}
+
+/* Responsive stack for small screens */
 @media (max-width: 600px) {
-  .nav-container {
-    flex-direction: column;
-    align-items: center;
-  }
   .navbar {
     flex-direction: column;
+    align-items: center;
     gap: 0.75rem;
-    margin-top: 0.5rem;
   }
 }
