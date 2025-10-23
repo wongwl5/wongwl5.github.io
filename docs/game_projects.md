@@ -3,8 +3,8 @@ title: Game Projects
 ---
 
 ## N.A.N.O.: The Last Line
-Platform: Windows Desktop
-Language/Tools: C++, OpenGL, JSON, Git, GitHub, Notion, Visual Studio
+#### Platform: Windows Desktop<br>
+#### Language/Tools: C++, OpenGL, JSON, Git, GitHub, Notion, Visual Studio
 ![NANO Screenshot](/assets/nano_image.webp)
 
 #### September 2024 - April 2025
@@ -12,7 +12,6 @@ Language/Tools: C++, OpenGL, JSON, Git, GitHub, Notion, Visual Studio
 NANO is a 2D puzzle platformer that blends immersive storytelling with intricate puzzle solving and resource management.  
 
 Role: Engine Physics Lead  
-
 - Architected and implemented a custom 2D physics engine in C++ featuring realistic rigid‑body dynamics, collision detection, and force simulation.  
 - Developed the physics engine to closely mimic Unity's physics engine API, enabling the team's game designers to transition seamlessly and reduce onboarding time.  
 - Responsible for packaging and deploying the game as an installer executable, streamlining distribution and installation for end users.  
@@ -22,8 +21,8 @@ Role: Engine Physics Lead
 Check out the game on the DigiPen Game Gallery [here](https://www.digipen.edu.sg/showcase/student-games/nano-the-last-line)!
 
 ## GridLock Dungeon
-Platform: Windows Desktop
-Language/Tools: C++, JSON, Git, GitHub, Visual Studio, Alpha Engine (DigiPen proprietary engine)
+#### Platform: Windows Desktop<br>
+#### Language/Tools: C++, JSON, Git, GitHub, Visual Studio, Alpha Engine (DigiPen proprietary engine)
 ![GridLock Dungeon Screenshot](/assets/gridlock_dungeon_image.png)
 
 #### January 2024 - April 2024
@@ -40,10 +39,11 @@ Watch a short trailer for GridLock Dungeon below!
 <video width="640" height="360" controls>
   <source src="{{ '/assets/gridlock_dungeon_trailer.mp4' | relative_url }}" type="video/mp4">
 </video>
+<br>
 
 ## Bon-Tress
-Platform: Android
-Language/Tools: C#, Unity Engine, Visual Studio, GitHub, Adobe XD
+#### Platform: Android<br>
+#### Language/Tools: C#, Unity Engine, Visual Studio, GitHub, Adobe XD
 ![Bon-Tress Screenshot](/assets/bontress_image.png)
 
 #### January 2020 - September 2020
@@ -60,10 +60,17 @@ Role: UI/UX Programmer
 - Communicated with game designers and artists to ensure mechanics and artstyles were respected in the final game
 
 Check out the game trailer for Bon-Tress [here](https://www.youtube.com/watch?v=SovWF2KzWXU)!
+<iframe width="640" height="360"
+  src="https://www.youtube.com/watch?v=SovWF2KzWXU"
+  title="Bon-Tress Trailer"
+  frameborder="0"
+  allowfullscreen>
+</iframe>
+<br>
 
 ## Polytopia
-Platform: Android
-Language/Tools: C#, Unity Engine, Visual Studio, GitHub, Adobe XD
+#### Platform: Android<br>
+#### Language/Tools: C#, Unity Engine, Visual Studio, GitHub, Adobe XD
 ![Polytopia Screenshot](/assets/polytopia_image.png)
 
 #### April 2019 - July 2019
@@ -81,3 +88,9 @@ Role: Mini-game Designer/Programmer
 - Discussed the mini-game art style and direction with the artist
 
 Check out the gameplay video for Polytopia [here](https://www.youtube.com/watch?v=w6UbMJuZg48)!
+<iframe width="640" height="360"
+  src="https://www.youtube.com/watch?v=w6UbMJuZg48"
+  title="Polytopia Gameplay Video"
+  frameborder="0"
+  allowfullscreen>
+</iframe>
