@@ -1,8 +1,6 @@
-# 
+ ---
 
----
-
-title: Welcome to Woon Li's Dev Journey
+title: Welcome to Woon Li's Dev Journey!
 
 ---
 
