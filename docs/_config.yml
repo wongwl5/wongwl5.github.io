@@ -33,9 +33,9 @@ nav:
   - name: "About Me"
     link: "/"
   - name: "Game Projects"
-    link: "/game_projects.html/"
+    link: "/game_projects.html"
   - name: "Software Projects"
-    link: "/software_projects.html/"
+    link: "/software_projects.html"
 
 # Build settings
 remote_theme: pages-themes/slate@v0.2.0
