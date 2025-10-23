@@ -4,7 +4,6 @@ title: Game Projects
 ---
 
 ---
-<br>
 ## N.A.N.O.: The Last Line
 ![NANO Screenshot](/assets/nano_image.webp)
 
@@ -21,10 +20,9 @@ Role: Engine Physics Lead
 - Communicated well with the design team to align physics behavior with gameplay requirements, ensuring mechanics felt responsive and intuitive
 
 Check out the game on the DigiPen Game Gallery [here](https://www.digipen.edu.sg/showcase/student-games/nano-the-last-line)!
-<br><br>
+<br>
 
 ---
-<br>
 ## GridLock Dungeon
 ![GridLock Dungeon Screenshot](/assets/gridlock_dungeon_image.png)
 
@@ -46,7 +44,6 @@ Watch a short trailer for GridLock Dungeon below!
 <br>
 
 ---
-<br>
 ## Bon-Tress
 ![Bon-Tress Screenshot](/assets/bontress_image.png)
 
@@ -74,7 +71,6 @@ Check out the game trailer for Bon-Tress [here](https://www.youtube.com/watch?v=
 <br>
 
 ---
-<br>
 ## Polytopia
 ![Polytopia Screenshot](/assets/polytopia_image.png)
 
