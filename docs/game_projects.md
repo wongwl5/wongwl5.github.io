@@ -2,7 +2,7 @@
 
 ## N.A.N.O.: The Last Line
 
-![NANO Screenshot](file:///D:/Woon%20Li/Documents/Github%20Pages%20Portfolio/wongwl5.github.io/docs/assets/nano_image.webp)
+![NANO Screenshot](/assets/nano_image.webp)
 
 September 2024 - April 2025
 
