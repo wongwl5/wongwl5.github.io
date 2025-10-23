@@ -16,4 +16,6 @@ Role: Engine Physics Lead
 - Worked closely with the technical team to implement many of the engine's core subsystems, such as the math library, camera system, seamless scene loading, and gamepad integration  
 - Communicated well with the design team to align physics behavior with gameplay requirements, ensuring mechanics felt responsive and intuitive
 
-Download and play the game on the DigiPen Game Gallery [here]([N.A.N.O: The Last Line | DigiPen (Singapore)](https://www.digipen.edu.sg/showcase/student-games/nano-the-last-line))!
+Download and play the game on the DigiPen Game Gallery [here](https://www.digipen.edu.sg/showcase/student-games/nano-the-last-line)!
+
+
