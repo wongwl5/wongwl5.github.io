@@ -61,7 +61,7 @@ Role: UI/UX Programmer
 
 Check out the game trailer for Bon-Tress [here](https://www.youtube.com/watch?v=SovWF2KzWXU)!
 <iframe width="640" height="360"
-  src="https://www.youtube.com/watch?v=SovWF2KzWXU"
+  src="https://www.youtube.com/embed/v=SovWF2KzWXU"
   title="Bon-Tress Trailer"
   frameborder="0"
   allowfullscreen>
@@ -89,7 +89,7 @@ Role: Mini-game Designer/Programmer
 
 Check out the gameplay video for Polytopia [here](https://www.youtube.com/watch?v=w6UbMJuZg48)!
 <iframe width="640" height="360"
-  src="https://www.youtube.com/watch?v=w6UbMJuZg48"
+  src="https://www.youtube.com/embed/v=w6UbMJuZg48"
   title="Polytopia Gameplay Video"
   frameborder="0"
   allowfullscreen>
