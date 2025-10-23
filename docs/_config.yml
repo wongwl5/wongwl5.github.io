@@ -29,13 +29,13 @@ email: zack.woonli@gmail.com
 #url: "" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
 #github_username:  wongwl5
-nav:
-  - name: "About Me"
-    link: "/"
-  - name: "Game Projects"
-    link: "/game_projects.html"
-  - name: "Software Projects"
-    link: "/software_projects.html"
+#nav:
+#  - name: "About Me"
+#    link: "/"
+#  - name: "Game Projects"
+#    link: "/game_projects.html"
+#  - name: "Software Projects"
+#    link: "/software_projects.html"
 
 # Build settings
 remote_theme: pages-themes/slate@v0.2.0
