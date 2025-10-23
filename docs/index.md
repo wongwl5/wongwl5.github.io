@@ -45,13 +45,13 @@ June 2018 - August 2018
 
 ## Education
 #### Bachelor of Science in Computer Science in Real-Time Interactive Simulation
-DigiPen Institute of Technology/Singapore Institute of Technology
+DigiPen Institute of Technology/Singapore Institute of Technology<br>
 September 2023 - July 2027
 - The Bachelor of Science with Honours in Computer Science in Real-Time Interactive Simulation is a four-year direct honours joint-degree programme offered by SIT and DigiPen Institute of Technology.
 - GPA: 4.46/5.0
 
 #### Diploma in Game Design & Development
-Temasek Polytechnic
+Temasek Polytechnic<br>
 April 2018 - April 2021
 - Achieved the Director's List for Academic Year 2019/2020 for being the top 10% of the cohort
 - Graduated with a Diploma in Game Design & Development With Merit
