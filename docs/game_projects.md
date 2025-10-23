@@ -2,12 +2,14 @@
 title: Game Projects
 ---
 
+---
+
 ## N.A.N.O.: The Last Line
 ![NANO Screenshot](/assets/nano_image.webp)
 
 #### September 2024 - April 2025
-Platform: Windows Desktop<br>
-C++, OpenGL, JSON, Git, GitHub, Notion, Visual Studio<br><br>
+**Platform:** Windows Desktop<br>
+**Tools:** C++, C#, Kigen Engine (Custom Game Engine) OpenGL, JSON, Git, GitHub, Notion, Visual Studio<br><br>
 NANO is a 2D puzzle platformer that blends immersive storytelling with intricate puzzle solving and resource management.  
 
 Role: Engine Physics Lead  
@@ -19,12 +21,14 @@ Role: Engine Physics Lead
 
 Check out the game on the DigiPen Game Gallery [here](https://www.digipen.edu.sg/showcase/student-games/nano-the-last-line)!
 
+---
+
 ## GridLock Dungeon
 ![GridLock Dungeon Screenshot](/assets/gridlock_dungeon_image.png)
 
 #### January 2024 - April 2024
-Platform: Windows Desktop<br>
-C++, JSON, Git, GitHub, Visual Studio, Alpha Engine (DigiPen proprietary engine)<br><br>
+**Platform:** Windows Desktop<br>
+**Tools:** C++, JSON, Git, GitHub, Visual Studio, Alpha Engine (DigiPen proprietary engine)<br><br>
 GridLock Dungeon is a rogue-like dungeon crawler game with turn-based mechanics and a unique shared mana pool system. Players take control of 4 different playable characters of different classes (Tank, Melee, Archer, Mage) in a bid to defeat all enemies and escape the procedurally-generated dungeon.
 
 Role: Gameplay Programmer
@@ -39,12 +43,14 @@ Watch a short trailer for GridLock Dungeon below!
 </video>
 <br>
 
+---
+
 ## Bon-Tress
 ![Bon-Tress Screenshot](/assets/bontress_image.png)
 
 #### January 2020 - September 2020
-Platform: Android<br>
-C#, Unity Engine, Visual Studio, GitHub, Adobe XD<br><br>
+**Platform:** Android<br>
+**Tools:** C#, Unity Engine, Visual Studio, GitHub, Adobe XD<br><br>
 Bon-Tress is a 2D pixel art tower defense mobile game developed using Unity with C#.
 
 In Bon-Tress, defend your study habits against infiltrating negative traits! Build towers of positive traits to counteract distractions and boost your focus in this strategic 2D-pixel tower defense game.
@@ -65,12 +71,14 @@ Check out the game trailer for Bon-Tress [here](https://www.youtube.com/watch?v=
 </iframe>
 <br>
 
+---
+
 ## Polytopia
 ![Polytopia Screenshot](/assets/polytopia_image.png)
 
 #### April 2019 - July 2019
-Platform: Android<br>
-C#, Unity Engine, Visual Studio, GitHub, Adobe XD<br><br>
+**Platform:** Android<br>
+**Tools:** C#, Unity Engine, Visual Studio, GitHub, Adobe XD<br><br>
 Polytopia is a 2D pixel art RPG mobile game developed using Unity with C#.
 
 Take control of the player, an ambitious blacksmith with a goal to craft a legendary sword. Plan your day, explore the world and find precious materials and blueprints needed to forge the sword.
