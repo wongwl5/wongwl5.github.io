@@ -15,6 +15,7 @@ I thrive on solving complex problems, architecting scalable systems, and learnin
 
 Feel free to explore my [game](https://wongwl5.github.io/game_projects.html) and [software](https://wongwl5.github.io/software_projects.html) projects! If there are any queries, feel free to contact me as well.
 <br>
+
 ---
 
 ## Work Experience
@@ -38,6 +39,7 @@ June 2018 - August 2018
 - Updated the shop's online catalogue to match in-store inventory
 - Took photographs of shop items and performed photo editing with Adobe Photoshop
 <br>
+
 ---
 
 ## Education
@@ -54,11 +56,13 @@ April 2018 - April 2021
 - Graduated with a Diploma in Game Design & Development With Merit
 - GPA: 3.64/4.0
 <br>
+
 ---
 
 ## Resume/CV
 My one-page resume can be downloaded [here](/assets/Wong Woon Li Resume.pdf).
 <br>
+
 ---
 
 ## Get in Touch
