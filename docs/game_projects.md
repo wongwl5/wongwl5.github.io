@@ -20,7 +20,7 @@ Role: Engine Physics Lead
 - Communicated well with the design team to align physics behavior with gameplay requirements, ensuring mechanics felt responsive and intuitive
 
 Check out the game on the DigiPen Game Gallery [here](https://www.digipen.edu.sg/showcase/student-games/nano-the-last-line)!
-<br>
+<br><br>
 
 ---
 <br>
