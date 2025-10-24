@@ -19,10 +19,6 @@ Feel free to explore my [game](https://wongwl5.github.io/game_projects.html) and
 
 ---
 
-# My Journey so far
-
----
-
 ## Work Experience
 #### Full-Stack Web Developer (Part-time, Hybrid)
 Gnee Hong Co. Pte. Ltd.<br>

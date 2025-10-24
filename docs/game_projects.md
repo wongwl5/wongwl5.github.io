@@ -49,9 +49,11 @@ Watch a short trailer for GridLock Dungeon below!
 
 #### December 2020 - July 2021
 **Platform:** Windows Desktop<br>
-**Tools:** C#, Unity Engine, Visual Studio
-Battle City 3D Remake is a side project I did during my free time after graduating from Polytechnic.<br>
-It is heavily inspired by the old-school Battle City game for NES and was a passion project to try and re-create the game in 3D with higher graphical fidelity while sticking true to the game design.<br>
+**Tools:** C#, Unity Engine, Visual Studio<br><br>
+Battle City 3D Remake is a side project I did during my free time after graduating from Polytechnic.
+
+It is heavily inspired by the old-school Battle City game for NES and was a passion project to try and re-create the game in 3D with higher graphical fidelity while sticking true to the game design.
+
 Up to two players can play local co-op using keyboard or gamepad controls. It also features similar enemy tank behaviour and powerups as in the original game.
 
 Watch a short gameplay video for Battle City 3D Remake below!
@@ -65,9 +67,11 @@ Watch a short gameplay video for Battle City 3D Remake below!
 ## FPS Game Project
 #### October 2020 - December 2020
 **Platform:** Windows Desktop<br>
-**Tools:** C#, Unity Engine, Visual Studio
-This FPS game project was a side project I made when I was trying to learn more about the 3D animation systems in Unity.<br>
-It is a very simple FPS shooter prototype where you have to shoot at an enemy that dodges your bullets with various stunts, whilst also dodging the enemy's shots at you.<br>
+**Tools:** C#, Unity Engine, Visual Studio<br><br>
+This FPS game project was a side project I made when I was trying to learn more about the 3D animation systems in Unity.
+
+It is a very simple FPS shooter prototype where you have to shoot at an enemy that dodges your bullets with various stunts, whilst also dodging the enemy's shots at you.
+
 This was a huge learning experience for me as I learnt how to make more responsive animation transitions and work with Unity's animator systems.
 
 <video width="640" height="360" controls>
@@ -135,13 +139,14 @@ Check out the gameplay video for Polytopia [here](https://www.youtube.com/watch?
 <video width="640" height="360" controls>
   <source src="{{ '/assets/icyracey_gameplay1.mp4' | relative_url }}" type="video/mp4">
 </video>
-<br>
 
 #### February 2019 - April 2019
 **Platform:** Windows Desktop<br>
 **Tools:** C#, Unity Engine, Visual Studio, Blender<br><br>
-icy racey is a casual 3D racing game developed with Unity and C#.<br>
-It features 5 unique race tracks with various mechanics that affect the difficulty and challenge of the race, such as conveyor belts, teleporters and challenging AI behaviour.<br>
+icy racey is a casual 3D racing game developed with Unity and C#.
+
+It features 5 unique race tracks with various mechanics that affect the difficulty and challenge of the race, such as conveyor belts, teleporters and challenging AI behaviour.
+
 The low-poly cars, traffic lights and lampposts in the game were modelled by me using Blender.
 
 This project taught me how to use Unity's built-in realistic vehicle physics, such as the wheel collider and creating anti-roll bar physics scripts to improve the stability of cars.<br>
