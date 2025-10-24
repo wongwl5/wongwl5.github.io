@@ -60,9 +60,11 @@ Up to two players can play local co-op using keyboard or gamepad controls. It al
 
 Watch a short gameplay video for Battle City 3D Remake below!
 
-<video width="640" height="360" controls>
-  <source src="{{ '/assets/battlecity_gameplay.mp4' | relative_url }}" type="video/mp4">
-</video>
+<div class="video-container">
+  <video controls>
+    <source src="{{ '/assets/battlecity_gameplay.mp4' | relative_url }}" type="video/mp4">
+  </video>
+</div>
 <br>
 
 ---
@@ -76,9 +78,11 @@ It is a very simple FPS shooter prototype where you have to shoot at an enemy th
 
 This was a huge learning experience for me as I learnt how to make more responsive animation transitions and work with Unity's animator systems.
 
-<video width="640" height="360" controls>
-  <source src="{{ '/assets/fpsgame_gameplay.mp4' | relative_url }}" type="video/mp4">
-</video>
+<div class="video-container">
+  <video controls>
+    <source src="{{ '/assets/fpsgame_gameplay.mp4' | relative_url }}" type="video/mp4">
+  </video>
+</div>
 <br>
 
 ---
@@ -100,12 +104,14 @@ Role: UI/UX Programmer
 - Communicated with game designers and artists to ensure mechanics and artstyles were respected in the final game
 
 Check out the game trailer for Bon-Tress [here](https://www.youtube.com/watch?v=SovWF2KzWXU)!
-<iframe width="640" height="360"
-  src="https://www.youtube.com/embed/SovWF2KzWXU"
-  title="Bon-Tress Trailer"
-  frameborder="0"
-  allowfullscreen>
-</iframe>
+<div class="video-container">
+  <iframe
+    src="https://www.youtube.com/embed/SovWF2KzWXU"
+    title="Bon-Tress Trailer"
+    frameborder="0"
+    allowfullscreen>
+  </iframe>
+</div>
 <br>
 
 ---
@@ -128,19 +134,23 @@ Role: Mini-game Designer/Programmer
 - Discussed the mini-game art style and direction with the artist
 
 Check out the gameplay video for Polytopia [here](https://www.youtube.com/watch?v=w6UbMJuZg48)!
-<iframe width="640" height="360"
-  src="https://www.youtube.com/embed/w6UbMJuZg48"
-  title="Polytopia Gameplay Video"
-  frameborder="0"
-  allowfullscreen>
-</iframe>
+<div class="video-container">
+  <iframe
+    src="https://www.youtube.com/embed/w6UbMJuZg48"
+    title="Polytopia Gameplay Video"
+    frameborder="0"
+    allowfullscreen>
+  </iframe>
+</div>
 <br>
 
 ---
 ## icy racey
-<video width="640" height="360" controls>
-  <source src="{{ '/assets/icyracey_gameplay1.mp4' | relative_url }}" type="video/mp4">
-</video>
+<div class="video-container">
+  <video controls>
+    <source src="{{ '/assets/icyracey_gameplay1.mp4' | relative_url }}" type="video/mp4">
+  </video>
+</div>
 
 #### February 2019 - April 2019
 **Platform:** Windows Desktop<br>
@@ -155,6 +165,8 @@ This project taught me how to use Unity's built-in realistic vehicle physics, su
 I also gained valuable insights on the art and 3D modelling aspect of game development via the creation of low-poly art assets with Blender.
 
 Check out another gameplay video of icy racey below, where clever and precise control is required to beat the AI.
-<video width="640" height="360" controls>
-  <source src="{{ '/assets/icyracey_gameplay2.mp4' | relative_url }}" type="video/mp4">
-</video>
+<div class="video-container">
+  <video controls>
+    <source src="{{ '/assets/icyracey_gameplay2.mp4' | relative_url }}" type="video/mp4">
+  </video>
+</div>
