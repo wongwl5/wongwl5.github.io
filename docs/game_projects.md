@@ -38,9 +38,11 @@ Role: Gameplay Programmer
 
 Watch a short trailer for GridLock Dungeon below!
 
-<video width="640" height="360" controls>
-  <source src="{{ '/assets/gridlock_dungeon_trailer.mp4' | relative_url }}" type="video/mp4">
-</video>
+<div class="video-container">
+  <video controls>
+    <source src="{{ '/assets/gridlock_dungeon_trailer.mp4' | relative_url }}" type="video/mp4">
+  </video>
+</div>
 <br>
 
 ---
